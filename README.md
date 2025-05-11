@@ -33,7 +33,7 @@
     - **JSP, HTML, CSS, Javascript, font-awesome(아이콘), Session, Cookie**
     
 - 📌 **참고 레퍼런스**
-  - Spotify: 플레이리스트 및 음악 서비스 UX를 참 
+  - Spotify: 플레이리스트 및 음악 서비스 UX를 참고 
 
 
 <br><br>
