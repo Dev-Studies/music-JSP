@@ -1,0 +1,32 @@
+{
+  "cards": [
+    {
+      "title": "Angry Mood",
+      "description": "Calm your Anger",
+      "cover": "/static/songs/cover/angry.jpg",
+      "songs": [
+        "/static/songs/Angry_(mood)/must be angry-DMassaIII.mp3",
+        "/static/songs/Angry_(mood)/metal dark matter-AlexGrohl.mp3"
+      ]
+    },
+    {
+      "title": "Bright Songs",
+      "description": "Bright Songs for you",
+      "cover": "/static/songs/cover/bright.jpg",
+      "songs": [
+        "/static/songs/Bright_(mood)/bollywood song-ShivamGfx.mp3",
+        "/static/songs/Bright_(mood)/advertising summer music-SigmaMusicArt.mp3"
+      ]
+    },
+    {
+      "title": "Just Chill",
+      "description": "Yes, Just Chill",
+      "cover": "/static/songs/cover/chill.jpg",
+      "songs": [
+        "/static/songs/Chill_(mood)/indigo lofi hip hop-GrandProject.mp3",
+        "/static/songs/Chill_(mood)/midnight whispers lofi-WhiteRecords.mp3"
+      ]
+    }
+
+  ]
+}
